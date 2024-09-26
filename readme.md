@@ -2,6 +2,10 @@
 ## Introduction
 This study employed over 100 hours of high-altitude drone video data from eight intersections in Hohhot to generate a unique and extensive dataset encompassing high-density urban road intersections in China. This research has enhanced the YOLOUAV model to enable precise target recognition on unmanned aerial vehicle (UAV) datasets. An automated calibration algorithm is presented to create a functional dataset in high-density traffic flows, which saves human and material resources. This dataset can capture up to 200 vehicles per frame while accurately tracking over 1 million road users, including cars, buses, and trucks. Moreover, the dataset has recorded over 50,000 complete lane changes. It is the largest publicly available road user trajectories in high-density urban intersections. Furthermore, this paper updates speed and acceleration algorithms based on UAV elevation and implements a UAV offset correction algorithm. A case study demonstrates the usefulness of the proposed methods, showing essential parameters to evaluate intersections and traffic conditions in traffic engineering. The model can track more than 200 vehicles of different types simultaneously in highly dense traffic on an urban intersection in Hohhot, generating heatmaps based on spatial-temporal traffic flow data and locating traffic conflicts by conducting lane change analysis and surrogate measures. With the diverse data and high accuracy of results, this study aims to advance research and development of UAVs in transportation significantly. UAV data can be obtained by contacting the author.
 
+## Trajectory, Speed, Acceleration, and Direction Extraction 
+To accurately extract trajectory, speed, acceleration, and direction data from the UAV videos, specialized software and algorithms were employed. The data extraction process involved analyzing video footage to detect and track vehicles as they move through intersections. For a detailed look at how this data extraction is performed, please view the following video demonstration:
+[![Data Extraction Process Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/3e808ab6db80f6a9262a8eb99d99264aee201447/Datashare/1.mp4)
+
 ## Dataset Structure
 
 The dataset consists of the following files:
@@ -14,11 +18,7 @@ The dataset consists of the following files:
 | 5         | 103 | car  | 790  | 709  | 812  | 764  | 27           | DOWN      | -0.08               | 22 | 8     | 25   | 9    |
 | 5         | 104 | car  | 1482 | 613  | 1550 | 637  | 18           | RIGHT     | -0.08               | 22 | 9     | 25   | 9    |
 | 5         | 105 | car  | 807  | 523  | 827  | 577  | 24           | DOWN      | 0.04                | 22 | 9     | 26   | 9    |
-| 5         | 106 | car  | 939  | 1038 | 970  | 1080 | 8            | UP        | 0.03                | 23 | 9     | 26   | 9    |
-| 5         | 107 | car  | 1847 | 456  | 1913 | 479  | 12           | LEFT      | 0.11                | 23 | 9     | 26   | 10   |
-| 5         | 108 | car  | 771  | 21   | 790  | 72   | 11           | DOWN      | -0.03               | 23 | 9     | 27   | 10   |
-| 5         | 109 | car  | 822  | 1037 | 841  | 1080 | 16           | DOWN      | 0.04                | 23 | 9     | 28   | 10   |
-| 5         | 110 | car  | 505  | 254  | 529  | 319  | 7            | LEFT      | -0.02               | 23 | 9     | 29   | 11   |
+
 
 
 
