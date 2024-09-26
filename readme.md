@@ -7,16 +7,20 @@ The dataset consists of the following files:
 - `data/`: Contains the main data files.
 - `docs/`: Contains the documentation and usage instructions.
 
+| ![Signalized Intersection-A](image-url-1) | ![Non-Signalized Intersection-B](image-url-2) |
+|:-----------------------------------------:|:-------------------------------------------:|
+| **Intersection A**<br>Signalized Intersection-USA | **Intersection B**<br>Non-Signalized Intersection-USA |
+
+| ![Signalized Intersection-C (TBA)](image-url-3) | ![Consecutive Signalized Intersections-D](image-url-4) |
+|:-----------------------------------------------:|:----------------------------------------------------:|
+| **Intersection C (TBA)**<br>Signalized Intersection-USA | **Intersection D**<br>Consecutive Signalized Intersections-USA |
+
+
 ## Accessing the Data
 To request access to the data, please fill out [this form](link-to-form) and send it to myemail@example.com.
 
 ## Citation
 If you use this dataset in your research, please use the following citation:
 ```bibtex
-@article{mydataset2023,
-    author = {Author Name},
-    title = {MyDataset: A Custom Dataset for XYZ Research},
-    year = {2023},
-    journal = {Journal Name},
-    doi = {10.1234/journal.doi},
+@article{},
 }
