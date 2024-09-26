@@ -2,12 +2,16 @@
 ## Introduction
 This study employed over 100 hours of high-altitude drone video data from eight intersections in Hohhot to generate a unique and extensive dataset encompassing high-density urban road intersections in China. This research has enhanced the YOLOUAV model to enable precise target recognition on unmanned aerial vehicle (UAV) datasets. An automated calibration algorithm is presented to create a functional dataset in high-density traffic flows, which saves human and material resources. This dataset can capture up to 200 vehicles per frame while accurately tracking over 1 million road users, including cars, buses, and trucks. Moreover, the dataset has recorded over 50,000 complete lane changes. It is the largest publicly available road user trajectories in high-density urban intersections. Furthermore, this paper updates speed and acceleration algorithms based on UAV elevation and implements a UAV offset correction algorithm. A case study demonstrates the usefulness of the proposed methods, showing essential parameters to evaluate intersections and traffic conditions in traffic engineering. The model can track more than 200 vehicles of different types simultaneously in highly dense traffic on an urban intersection in Hohhot, generating heatmaps based on spatial-temporal traffic flow data and locating traffic conflicts by conducting lane change analysis and surrogate measures. With the diverse data and high accuracy of results, this study aims to advance research and development of UAVs in transportation significantly. UAV data can be obtained by contacting the author.
 
-## File Structure
+## Dataset Structure
 The dataset consists of the following files:
-- `data/`: Contains the main data files.
-- `docs/`: Contains the documentation and usage instructions.
+- `video`: Original UAV recorded video.
+- `CSV file`: Contains the vehicle data extracted from UAV video .
+- | frame_num | id | name | xmin | ymin | xmax | ymax | Speed (km/h) | turn | acceleration (m/s^2) | UP | RIGHT | DOWN | LEFT |
+|-----------|----|------|------|------|------|------|--------------|------|----------------------|----|-------|------|------|
+|           |    |      |      |      |      |      |              |      |                      |    |       |      |      |
 
-## Intersection Data
+
+## DownLoad intersection Dataset
 
 <table>
 <tr>
@@ -45,8 +49,8 @@ The dataset consists of the following files:
 </table>
 
 
-## Accessing the Data
-To request access to the data, please contact qpu001@odu.edu.
+## Accessing more Data
+If you want to access more data, please contact qpu001@odu.edu.
 
 ## Citation
 If you use this dataset in your research, please use the following citation:
