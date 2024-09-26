@@ -11,7 +11,7 @@ The dataset consists of the following files:
 
 | ![Signalized Intersection-A](image-url-1) | ![Non-Signalized Intersection-B](image-url-2) |
 |:-----------------------------------------:|:-------------------------------------------:|
-| **Intersection A**<br>Signalized Intersection-USA | **Intersection B**<br>Non-Signalized Intersection-USA |
+| **Zhandong Road**<br>Signalized Intersection-USA | **Intersection B**<br>Non-Signalized Intersection-USA |
 
 | ![Signalized Intersection-C (TBA)](image-url-3) | ![Consecutive Signalized Intersections-D](image-url-4) |
 |:-----------------------------------------------:|:----------------------------------------------------:|
@@ -19,7 +19,7 @@ The dataset consists of the following files:
 
 
 ## Accessing the Data
-To request access to the data, please fill out [this form](link-to-form) and send it to myemail@example.com.
+To request access to the data, please contact qpu001@odu.edu.
 
 ## Citation
 If you use this dataset in your research, please use the following citation:
