@@ -9,7 +9,7 @@ The dataset consists of the following files:
 
 ## Intersection Data
 
-| ![A. Zhandong Road]([image-url-1](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/7a032b6fcd6ed2f0dd68470c96ca8fec56807c8a/img/A.%20Zhandong%20Road.jpg)) | ![Non-Signalized Intersection-B](image-url-2) |
+| ![A. Zhandong Road](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/7a032b6fcd6ed2f0dd68470c96ca8fec56807c8a/img/A.%20Zhandong%20Road.jpg) | ![Non-Signalized Intersection-B](image-url-2) |
 |:-----------------------------------------:|:-------------------------------------------:|
 
 
