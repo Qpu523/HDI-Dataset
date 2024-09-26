@@ -8,20 +8,31 @@ The dataset consists of the following files:
 - `docs/`: Contains the documentation and usage instructions.
 
 ## Intersection Data
-| ![A. Zhandong Road] | ![B. Dongying Road] |
+
 | ![A. Zhandong Road](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/fe391330d81c060d613203e1ad7c5fbab35a0f48/Datashare/A.%20Zhandong%20Road.jpg) | ![B. Dongying Road](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/fe391330d81c060d613203e1ad7c5fbab35a0f48/Datashare/B.%20Dongying%20Road.jpg) |
 |:-----------------------------------------:|:-------------------------------------------:|
 
 | ![C. Xing'an South Road‎](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/fe391330d81c060d613203e1ad7c5fbab35a0f48/Datashare/C.%20Xing'an%20South%20Road%E2%80%8E.jpg) | ![D. Ulanqab East Street](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/fe391330d81c060d613203e1ad7c5fbab35a0f48/Datashare/D.%20Ulanqab%20East%20Street.jpg) |
 |:-----------------------------------------------:|:----------------------------------------------------:|
 
-| ![Signalized Intersection-A](image-url-1) | ![Non-Signalized Intersection-B](image-url-2) |
-|:-----------------------------------------:|:-------------------------------------------:|
-| **Intersection A**<br>Signalized Intersection-USA | **Intersection B**<br>Non-Signalized Intersection-USA |
-
-| ![Signalized Intersection-C (TBA)](image-url-3) | ![Consecutive Signalized Intersections-D](image-url-4) |
-|:-----------------------------------------------:|:----------------------------------------------------:|
-| **Intersection C (TBA)**<br>Signalized Intersection-USA | **Intersection D**<br>Consecutive Signalized Intersections-USA |
+<table>
+<tr>
+<th><a href="link-to-detail-page-1">Signalized Intersection-A</a></th>
+<th><a href="link-to-detail-page-2">Non-Signalized Intersection-B</a></th>
+</tr>
+<tr>
+<td align="center"><img src="image-url-1" alt="Signalized Intersection-A" /></td>
+<td align="center"><img src="image-url-2" alt="Non-Signalized Intersection-B" /></td>
+</tr>
+<tr>
+<th><a href="link-to-detail-page-3">Signalized Intersection-C (TBA)</a></th>
+<th><a href="link-to-detail-page-4">Consecutive Signalized Intersections-D</a></th>
+</tr>
+<tr>
+<td align="center"><img src="image-url-3" alt="Signalized Intersection-C (TBA)" /></td>
+<td align="center"><img src="image-url-4" alt="Consecutive Signalized Intersections-D" /></td>
+</tr>
+</table>
 
 
 ## Accessing the Data
