@@ -2,9 +2,14 @@
 ## Introduction
 This study employed over 100 hours of high-altitude drone video data from eight intersections in Hohhot to generate a unique and extensive dataset encompassing high-density urban road intersections in China. This research has enhanced the YOLOUAV model to enable precise target recognition on unmanned aerial vehicle (UAV) datasets. An automated calibration algorithm is presented to create a functional dataset in high-density traffic flows, which saves human and material resources. This dataset can capture up to 200 vehicles per frame while accurately tracking over 1 million road users, including cars, buses, and trucks. Moreover, the dataset has recorded over 50,000 complete lane changes. It is the largest publicly available road user trajectories in high-density urban intersections. Furthermore, this paper updates speed and acceleration algorithms based on UAV elevation and implements a UAV offset correction algorithm. A case study demonstrates the usefulness of the proposed methods, showing essential parameters to evaluate intersections and traffic conditions in traffic engineering. The model can track more than 200 vehicles of different types simultaneously in highly dense traffic on an urban intersection in Hohhot, generating heatmaps based on spatial-temporal traffic flow data and locating traffic conflicts by conducting lane change analysis and surrogate measures. With the diverse data and high accuracy of results, this study aims to advance research and development of UAVs in transportation significantly. UAV data can be obtained by contacting the author.
 
-## Trajectory, Speed, Acceleration, and Direction Extraction 
-To accurately extract trajectory, speed, acceleration, and direction data from the UAV videos, specialized software and algorithms were employed. The data extraction process involved analyzing video footage to detect and track vehicles as they move through intersections. For a detailed look at how this data extraction is performed, please view the following video demonstration:
-[![Data Extraction Process Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/3e808ab6db80f6a9262a8eb99d99264aee201447/Datashare/1.mp4)
+## Trajectory, Speed, Acceleration, and Direction Extraction
+This section provides an overview of the methods used to extract trajectory, speed, acceleration, and directional data from the high-altitude UAV footage. These metrics are crucial for analyzing traffic flow dynamics and understanding vehicular behavior in complex urban environments.
+
+![Video Preview](https://github.com/Qpu523/High-density-Intersection-Dataset/raw/3e808ab6db80f6a9262a8eb99d99264aee201447/Datashare/video_preview.jpg)
+
+[Watch the Video](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/3e808ab6db80f6a9262a8eb99d99264aee201447/Datashare/1.mp4)
+
+
 
 ## Dataset Structure
 
