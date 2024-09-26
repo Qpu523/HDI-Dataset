@@ -7,6 +7,8 @@ The dataset consists of the following files:
 - `data/`: Contains the main data files.
 - `docs/`: Contains the documentation and usage instructions.
 
+## Intersection Data
+
 | ![Signalized Intersection-A](image-url-1) | ![Non-Signalized Intersection-B](image-url-2) |
 |:-----------------------------------------:|:-------------------------------------------:|
 | **Intersection A**<br>Signalized Intersection-USA | **Intersection B**<br>Non-Signalized Intersection-USA |
