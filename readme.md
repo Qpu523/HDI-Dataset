@@ -80,7 +80,7 @@ The dataset consists of the following files:
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <div style="margin-right: 20px;">
-        <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/7fee335575c883ad9dd6d006980ec62dd73722ec/Datashare/ODU.jpg" alt="Transportation Informatics Lab" width="350" height="350">
+        <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/be0afa947a693f1dd3e0e799476fa6d0512d5b72/Datashare/IMU.png" alt="Transportation Informatics Lab" width="350" height="350">
     </div>
     <div>
         <strong>Transportation Informatics Lab, Old Dominion University</strong>
