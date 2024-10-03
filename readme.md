@@ -67,19 +67,21 @@ The dataset consists of the following files:
 
 ## Support by
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/IMU1.png" alt="Inner Mongolia Center for Transportation Research" style="width: 350px; height: auto; margin-right: 20px;">
-    <div>
-        <strong>Inner Mongolia Center for Transportation Research</strong><br>
-        Inner Mongolia Engineering Research Center for Urban Transportation Data Science and Applications,<br>
-        Transportation Data Analysis and Visualization Laboratory.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <div style="text-align: center;">
+        <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/IMU1.png" alt="Inner Mongolia Center for Transportation Research" style="max-width: 350px; height: auto;">
+        <div>
+            <strong>Inner Mongolia Center for Transportation Research</strong><br>
+            Inner Mongolia Engineering Research Center for Urban Transportation Data Science and Applications,<br>
+            Transportation Data Analysis and Visualization Laboratory.
+        </div>
     </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/ODU.jpg" alt="Transportation Informatics Lab" style="width: 350px; height: auto; margin-right: 20px;">
-    <div>
-        <strong>Transportation Informatics Lab, Old Dominion University</strong>
+    
+    <div style="text-align: center; margin-left: 20px;">
+        <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/ODU.jpg" alt="Transportation Informatics Lab" style="max-width: 350px; height: auto;">
+        <div>
+            <strong>Transportation Informatics Lab, Old Dominion University</strong>
+        </div>
     </div>
 </div>
 
