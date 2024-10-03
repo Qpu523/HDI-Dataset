@@ -67,12 +67,12 @@ The dataset consists of the following files:
 
 ## Support by
 
-![Inner Mongolia Center for Transportation Research](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/91a306cc57780ed08668c538a32c613a15437233/Datashare/IMU.png){: width=550px}
+![Inner Mongolia Center for Transportation Research](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/91a306cc57780ed08668c538a32c613a15437233/Datashare/IMU.png){: width=550px height=350px}
 **Inner Mongolia Center for Transportation Research**  
 Inner Mongolia Engineering Research Center for Urban Transportation Data Science and Applications,  
 Transportation Data Analysis and Visualization Laboratory.
 
-![Transportation Informatics Lab](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/7fee335575c883ad9dd6d006980ec62dd73722ec/Datashare/ODU.jpg){: width=550px}
+![Transportation Informatics Lab](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/7fee335575c883ad9dd6d006980ec62dd73722ec/Datashare/ODU.jpg){: width=550px height=350px}
 **Transportation Informatics Lab, Old Dominion University**
 
 
