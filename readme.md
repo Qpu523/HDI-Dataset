@@ -69,7 +69,7 @@ The dataset consists of the following files:
 ## Support by
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/071e90b832a8ec69f72ee375b21a95f051d3ad77/Datashare/IMU.png" alt="Inner Mongolia Center for Transportation Research" style="width: 350px; height: auto; margin-right: 20px;">
+    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/071e90b832a8ec69f72ee375b21a95f051d3ad77/Datashare/IMU.png" alt="Inner Mongolia Center for Transportation Research" style="width: 400px; height: auto; margin-right: 20px;">
     <div>
         <strong>Inner Mongolia Center for Transportation Research</strong><br>
         Inner Mongolia Engineering Research Center for Urban Transportation Data Science and Applications,<br>
@@ -78,7 +78,7 @@ The dataset consists of the following files:
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/ODU.jpg" alt="Transportation Informatics Lab" style="width: 350px; height: auto; margin-right: 20px;">
+    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/df1e43682b1b57ded8a21bf0ef4cca0d87d7ecd4/Datashare/ODU.jpg" alt="Transportation Informatics Lab" style="width: 400px; height: auto; margin-right: 20px;">
     <div>
         <strong>Transportation Informatics Lab, Old Dominion University</strong>
     </div>
