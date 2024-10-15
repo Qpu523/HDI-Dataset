@@ -79,7 +79,13 @@ The dataset consists of the following files:
     </div>
 </div>
 
-
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/d30ea0e5b03a7d6220c42eaa7c12d2e646875ab1/Datashare/ODU%20.jpg" alt="Old Dominion University" style="width: 400px; height: auto; margin-right: 20px;">
+    <div>
+        <strong>SenseLane Lab, Old Dominion University</strong><br>
+        <strong>Transportation Informatics Lab, Old Dominion University</strong><br>
+    </div>
+</div>
 
 
 
