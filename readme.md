@@ -12,12 +12,12 @@ This section provides an overview of the methods used to extract trajectory, spe
 
 
 ## Dataset Structure
-
+This is a raw data, you can perform data smoothing and preliminary processing according to your needs.
 The dataset consists of the following files:
 - `video`: Original UAV recorded video.
 - `CSV file`: Contains the vehicle data extracted from UAV video.
 - `Dataset Sample`
-- This is a raw data, you can perform data smoothing and preliminary processing according to your needs.
+
 
 | Frame Num | ID  | Type | Xmin | Ymin | Xmax | Ymax | Speed (km/h) | Direction | Acceleration (m/s²) | UP | RIGHT | DOWN | LEFT |
 |-----------|-----|------|------|------|------|------|--------------|-----------|---------------------|----|-------|------|------|
