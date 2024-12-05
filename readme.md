@@ -100,5 +100,12 @@ If you want to access more data, please contact zhuyuan@imu.edu.cn, qpu001@odu.e
 ## Citation
 If you use this dataset and method in your research, please use the following citation:
 ```bibtex
-@article{},
+@misc{pu2024dronedataanalyticsmeasuring,
+      title={Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas}, 
+      author={Qingwen Pu and Yuan Zhu and Junqing Wang and Hong Yang and Kun Xie and Shunlai Cui},
+      year={2024},
+      eprint={2411.02349},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2411.02349}, 
 }
