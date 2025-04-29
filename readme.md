@@ -26,12 +26,12 @@ The dataset consists of the following files:
 | 5         | 105 | car  | 807  | 523  | 827  | 577  | 24           | DOWN      | 0.04                | 22 | 9     | 26   | 9    |
 
 
-## Location Information of Dataset
+## Location Information of  HDI Dataset
 
 ![Video Preview](https://github.com/Qpu523/High-density-Intersection-Dataset/blob/95b2e75275feee9ce6c4d4d0f45af1b46e8b357c/Datashare/Location.png)
 
 
-## DownLoad intersection Dataset
+## DownLoad intersection HDI Dataset
 
 <table>
 <tr>
