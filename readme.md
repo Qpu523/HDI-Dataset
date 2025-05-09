@@ -126,7 +126,7 @@ If you use this dataset and method in your research, please use the following ci
 @article{pu2025curvttc,
   title={Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning},
   author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
-  journal={Accident Analysis \& Prevention},
+  journal={Accident Analysis & Prevention},
   volume={214},
   pages={107984},
   year={2025},
