@@ -67,12 +67,12 @@ The dataset consists of the following files:
 <td align="center"><img src="https://github.com/Qpu523/High-density-Intersection-Dataset/blob/5bc52ca9acc2b926886e86846faef83c043b1a85/Datashare/H.%20Zhongshan%20Road.jpg" alt="H. Zhongshan Road" /></td>
 </tr>
 <tr>
-  <th><a href="https://1drv.ms/f/c/54547f6bb45158b3/Es9p2iuAr_1EufuhhdKwYnsBmvyb8el96prvbcO3asj2pg?e=ask2ow">I. Car + Pedestrian + E-bike</a></th>
+  <th><a href="https://1drv.ms/f/c/54547f6bb45158b3/Es9p2iuAr_1EufuhhdKwYnsBmvyb8el96prvbcO3asj2pg?e=ask2ow">Mixed Road User Interaction(Cars, Pedestrians, E-bikes)</a></th>
   <th></th>
 </tr>
 <tr>
   <td align="center">
-    <img src="https://github.com/Qpu523/HDI-Dataset/blob/449906a6b8d50986aa5c673123488f90a984131f/Datashare/car%2Bpedestrian%2BE-bike.png" alt="I. Car + Pedestrian + E-bike" />
+    <img src="https://github.com/Qpu523/HDI-Dataset/blob/449906a6b8d50986aa5c673123488f90a984131f/Datashare/car%2Bpedestrian%2BE-bike.png" alt="Mixed Road User Interaction(Cars, Pedestrians, E-bikes)" />
   </td>
   <td></td>
 </tr>
