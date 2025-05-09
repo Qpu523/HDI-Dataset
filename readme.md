@@ -123,3 +123,17 @@ If you use this dataset and method in your research, please use the following ci
   publisher={SAGE Publications}
 }
 
+@article{pu2025curvttc,
+  title={Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning},
+  author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
+  journal={Accident Analysis \& Prevention},
+  volume={214},
+  pages={107984},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.aap.2025.107984},
+  url={https://doi.org/10.1016/j.aap.2025.107984}
+}
+
+
+
