@@ -137,7 +137,7 @@ If you use this dataset and method in your research, please use the following ci
 @article{wang2025shockwave,
   title={A simulation study on traffic conflict risk under shockwave propagation at signalized intersections},
   author={Wang, Junqing and Yang, Hong and Zhu, Yuan and Xie, Kun and Yan, Zizheng and Pu, Qingwen},
-  journal={Accident Analysis \& Prevention},
+  journal={Accident Analysis & Prevention},
   volume={218},
   pages={108081},
   year={2025},
