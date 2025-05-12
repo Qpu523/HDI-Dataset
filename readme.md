@@ -134,6 +134,18 @@ If you use this dataset and method in your research, please use the following ci
   doi={10.1016/j.aap.2025.107984},
   url={https://doi.org/10.1016/j.aap.2025.107984}
 }
+@article{wang2025shockwave,
+  title={A simulation study on traffic conflict risk under shockwave propagation at signalized intersections},
+  author={Wang, Junqing and Yang, Hong and Zhu, Yuan and Xie, Kun and Yan, Zizheng and Pu, Qingwen},
+  journal={Accident Analysis \& Prevention},
+  volume={218},
+  pages={108081},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.aap.2025.108081},
+  url={https://doi.org/10.1016/j.aap.2025.108081}
+}
+
 
 
 
