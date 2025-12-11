@@ -114,9 +114,8 @@ If you want to access more data, please contact zhuyuan@imu.edu.cn, qpu001@odu.e
 
 
 ## 📌 Citation
-
 If you use this dataset or method in your research, please cite the following paper:
-
+```bibtex
 @article{pu2025drone,
   title={Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas},
   author={Pu, Qingwen and Zhu, Yuan and Wang, Junqing and Yang, Hong and Xie, Kun and Cui, Shunlai},
@@ -127,9 +126,12 @@ If you use this dataset or method in your research, please cite the following pa
   doi={10.1177/03611981241311566},
   publisher={SAGE Publications}
 }
+```
 
-## 📚 Related Publications Based on This Dataset (for reference)
+---
 
+## 📚 Related Publications
+The following publications are based on this dataset:
 ```bibtex
 @article{pu2025curvttc,
   title={Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning},
@@ -153,6 +155,7 @@ If you use this dataset or method in your research, please cite the following pa
   publisher={Elsevier},
   doi={10.1016/j.aap.2025.108081},
   url={https://doi.org/10.1016/j.aap.2025.108081}
+}
 
 @article{pu2026interactive,
   title={Modeling interactive crash avoidance behaviors: A multi-agent state-space transformer-enhanced reinforcement learning framework},
@@ -165,7 +168,7 @@ If you use this dataset or method in your research, please cite the following pa
   doi={10.1016/j.aap.2025.108334},
   url={https://doi.org/10.1016/j.aap.2025.108334}
 }
-
+```
 
 
 
