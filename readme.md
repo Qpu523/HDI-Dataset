@@ -111,8 +111,12 @@ The dataset consists of the following files:
 ## Accessing more Data
 If you want to access more data, please contact zhuyuan@imu.edu.cn, qpu001@odu.edu.
 
-## Citation
-If you use this dataset and method in your research, please use the following citation:
+
+
+## 📌 Citation
+
+If you use this dataset or method in your research, please cite the following paper:
+
 ```bibtex
 @article{pu2025drone,
   title={Drone Data Analytics for Measuring Traffic Metrics at Intersections in High-Density Areas},
@@ -125,6 +129,9 @@ If you use this dataset and method in your research, please use the following ci
   publisher={SAGE Publications}
 }
 
+## 📚 Related Publications Based on This Dataset (for reference)
+
+```bibtex
 @article{pu2025curvttc,
   title={Modeling crash avoidance behaviors in vehicle-pedestrian near-miss scenarios: Curvilinear time-to-collision and Mamba-driven deep reinforcement learning},
   author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
@@ -136,6 +143,7 @@ If you use this dataset and method in your research, please use the following ci
   doi={10.1016/j.aap.2025.107984},
   url={https://doi.org/10.1016/j.aap.2025.107984}
 }
+
 @article{wang2025shockwave,
   title={A simulation study on traffic conflict risk under shockwave propagation at signalized intersections},
   author={Wang, Junqing and Yang, Hong and Zhu, Yuan and Xie, Kun and Yan, Zizheng and Pu, Qingwen},
@@ -146,8 +154,20 @@ If you use this dataset and method in your research, please use the following ci
   publisher={Elsevier},
   doi={10.1016/j.aap.2025.108081},
   url={https://doi.org/10.1016/j.aap.2025.108081}
+
+@article{pu2026interactive,
+  title={Modeling interactive crash avoidance behaviors: A multi-agent state-space transformer-enhanced reinforcement learning framework},
+  author={Pu, Qingwen and Xie, Kun and Guo, Hongyu and Zhu, Yuan},
+  journal={Accident Analysis & Prevention},
+  volume={226},
+  pages={108334},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.aap.2025.108334},
+  url={https://doi.org/10.1016/j.aap.2025.108334}
 }
 
 
 
+}
 
