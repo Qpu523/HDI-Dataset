@@ -109,7 +109,7 @@ The dataset consists of the following files:
 
 
 ## Accessing more Data
-If you want to access more data, please contact zhuyuan@imu.edu.cn, qpu001@odu.edu.
+If you want to access more data, please contact zhuyuan@imu.edu.cn, qingwen.pu@nus.edu.sg.
 
 
 
